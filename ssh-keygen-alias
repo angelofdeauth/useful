@@ -1,0 +1,1 @@
+ssh-keygen -f ~/.ssh/${NAME} -t ed25519 -a 500
