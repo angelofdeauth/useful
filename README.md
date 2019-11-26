@@ -1,2 +1,2 @@
 # useful
-Useful shit
+Useful shell
